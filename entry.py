@@ -1,3 +1,4 @@
+import time
 from pydaisi import Daisi
 
 def test_func():
